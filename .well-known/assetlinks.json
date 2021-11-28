@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.purple.liverpool",
     "sha256_cert_fingerprints":
     ["BB:17:D2:7B:75:DA:50:3E:8C:83:F7:01:B7:46:31:97:58:46:DC:1D:46:41:79:13:B7:5F:5D:19:AD:93:CD:92"]
   }
